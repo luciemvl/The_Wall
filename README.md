@@ -22,7 +22,7 @@ Une description des données :
 
 Nous nous avons posé des questions suivantes :   
 
-
++ Existe-t-il une relation entre
 
 
 ***
