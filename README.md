@@ -6,7 +6,7 @@ IF36 project
 ### Données
 
 Voici le dataset que nous avons choisi : https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics  
-Ces données ont pour origine un refuge pour animaux Austin Animal Center aux États Unis. Il est composé de 3 documents csv, on s'intéresse aux 2 documents : Austin_Animal_Center_Intakes.csv sur **les animaux pris en refuge** et Austin_Animal_Center_Outcomes.csv sur **les animaux sortant du refuge**. 
+Ces données ont pour origine un refuge pour animaux Austin Animal Center aux États Unis. Il est composé de 3 documents csv, on s'intéresse aux 2 documents : Austin_Animal_Center_Intakes.csv sur **les animaux pris en refuge** et Austin_Animal_Center_Outcomes.csv sur **les animaux sortant du refuge** pendant la période de Octobre 2013 à Mars 2021. 
 
 ### Plan d'analyse
 
