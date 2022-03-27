@@ -12,7 +12,7 @@ Ces données ont pour origine une recherche sur des étudiants dans deux écoles
 Le dataset consiste en 2 documents csv et 1 document R. Le document student-mat.csv représente des informations sur des étudiants dans le cours de math et le document student-por.csv sur ceux dans le cours de Portugais. À l'aide du document student-merge.R on peut accéder aux informations des étudiants qui apparaissent dans tous les deux groupes.   
 
 Nous avons choisi ces données pour des raisons suivantes :   
-+ Une grande quantité de variables qui nous donne de nombreux sujets d'études possibles.   
++ Nous disposons avec ce dataset d'une grande quantité de variables qui nous donne de nombreux sujets d'études possibles.   
 
 Une description des données :   
 + 396 étudiants sont étudiés dans le groupe du cours de math et 650 étudiants dans le groupe du cours de Portugais. 382 étudiants apparaissent dans les deux groupes.   
@@ -26,4 +26,4 @@ Nous nous avons posé des questions suivantes :
 
 
 ***
-Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé...S'il y a des choses dont on a pas besoin tu supprimes:)
+Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé...S'il y a des choses dont on a pas besoin tu supprimes et si tu trouves des erreurs de grammaires ou d'autres choses tu corriges :) Merci ! 
