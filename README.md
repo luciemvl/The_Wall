@@ -55,7 +55,7 @@ Une description des données :
 > Nous pouvons étudier la relation entre des paires de variables (prenant en compte d'autres).   
 > Exemple 1  
 > > Sujet : Relation entre la consommation d'alcool en semaine et le nombre d'absence.   
-> > Méthode possible : Point Graph, coloré avec le sexe. 
+> > Méthode possible : Point Graph, coloré avec le sexe  
 > > Problème potentiel : les données se concentrent dans une partie de l'échelle, ce qui peut rendre difficile l'établissement de la relation.   
 > > 
 > Exemple 2  
