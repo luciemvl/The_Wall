@@ -51,8 +51,7 @@ Une description des données :
 
 ### Plan d'analyse  
 
-Dans nos études sur ces données, nous allons : 
-+ Comparer des variables  
++ Comparaison des variables  
 > Nous pouvons étudier la relation entre des paires de variables (prenant en compte d'autres).   
 > Exemple 1  
 > > Sujet : Relation entre la consommation d'alcool en semaine et le nombre d'absence.   
@@ -64,7 +63,7 @@ Dans nos études sur ces données, nous allons :
 > > Méthode possible : (Traitement en avance pour obtenir le moyen du temps libres) Line Graph  
 > > Problème potentiel :  l'échelle 1 à 5 de la variable temps libre peut être trop subjective. 
 > > 
-+ Analyser des variables seules  
++ Analyse des variables seules  
 > Nous pouvons étudier la répartition dans les étudiants d'une variable (prenant en compte d'autres).   
 > Exemple 1  
 > > Sujet : Raison du choix de l'école  
