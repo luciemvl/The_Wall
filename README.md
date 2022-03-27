@@ -27,4 +27,3 @@ Nous nous avons posé des questions suivantes :
 
 ***
 Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé...S'il y a des choses dont on a pas besoin tu supprimes:)
-***
