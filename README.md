@@ -19,7 +19,6 @@ Une description des données :
 + Dans chaque groupes, 33 attributs sont étudiés.   
 
 ### Plan d'analyse  
-
 Nous nous avons posé des questions suivantes :   
 
 + Existe-t-il une relation entre
@@ -27,5 +26,5 @@ Nous nous avons posé des questions suivantes :
 
 ***
 Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé...   
-S'il y a des choses dont on a pas besoin tu supprimes...et si tu trouves des erreurs de grammaires ou d'autres choses tu peux corriger :)   
-Merci ! 
+S'il y a des choses dont on a pas besoin tu supprimes...et si tu trouves des erreurs de grammaires ou d'autres choses tu peux corriger :)  
+Merci !   
