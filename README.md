@@ -55,18 +55,24 @@ Dans nos études sur ces données, nous allons :
 + Comparer des variables  
 > Nous pouvons étudier la relation entre des paires de variables (prenant en compte d'autres).   
 > Exemple 1  
-> > Relation entre la consommation d'alcool en semaine et le nombre d'absence.   
+> > Sujet : Relation entre la consommation d'alcool en semaine et le nombre d'absence.   
+> > Méthode possible : Point Graph, coloré avec le sexe. 
+> > Problème potentiel : les données se concentrent dans une partie de l'échelle, ce qui peut rendre difficile l'établissement de la relation.   
 > > 
 > Exemple 2  
-> > Relation entre l'âge des étudiants et leur temps libre.   
+> > Sujet : Relation entre l'âge des étudiants et leur temps libre.   
+> > Méthode possible : (Traitement en avance pour obtenir le moyen du temps libres) Line Graph  
+> > Problème potentiel :  l'échelle 1 à 5 de la variable temps libre peut être trop subjective. 
+> > 
 + Analyser des variables seules  
 > Nous pouvons étudier la répartition dans les étudiants d'une variable (prenant en compte d'autres).   
 > Exemple 1  
-> > Raison du choix de l'école  
-> > 
+> > Sujet : Raison du choix de l'école  
+> > Méthode Possible :  Histogram
+> > Problème potentiel :  
 
   
 ***
-Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé...   
-S'il y a des choses dont on a pas besoin tu supprimes...et si tu trouves des erreurs de grammaires ou d'autres choses tu peux corriger :)  
+Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé... Surtout la partie la plus importante, le plan d'analyse. Là je suis un peu perdu... Si tu veux tu peux envoyer un message dans le groupe et je vais ajouter des choses suivant tes exemples.   
+S'il y a des choses dont on a pas besoin ou qui n'est pas intéressantes tu supprimes et si tu trouves des erreurs de grammaires ou d'autres choses tu peux corriger :)  
 Merci !   
