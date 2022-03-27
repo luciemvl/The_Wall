@@ -13,9 +13,9 @@ Ces données ont pour origine une recherche sur des étudiants dans deux écoles
 Le dataset consiste en 2 documents csv et 1 document R. Le document student-mat.csv représente des informations sur des étudiants dans le cours de math et le document student-por.csv sur ceux dans le cours de Portugais. À l'aide du document student-merge.R on peut accéder aux informations des étudiants qui apparaissent dans tous les deux groupes.   
   
 Nous avons choisi ces données pour des raisons suivantes :   
-+ Nous disposons avec ce dataset d'une grande quantité de variables qui nous donne de nombreux sujets d'études possibles.   
++ Nous disposons avec ce dataset d'une grande quantité de variables qui nous donne de nombreux sujets d'étude possibles.   
   
-Une description des données :   
+Une description des données :    
 + 396 étudiants sont étudiés dans le groupe du cours de math et 650 étudiants dans le groupe du cours de Portugais. 382 étudiants apparaissent dans les deux groupes.   
 + Dans chaque groupes, 33 attributs sont étudiés.   
 > school - école de l’étudiant (binaire: 'GP' - Gabriel Pereira ou 'MS' - Mousinho da Silveira)  
@@ -51,8 +51,17 @@ Une description des données :
 
 ### Plan d'analyse  
 
-Nous nous avons posé des questions suivantes :   
-+ Existe-t-il une relation entre
+Dans nos études sur ces données, nous allons : 
++ Comparer des variables
+> Nous pouvons trouver la relation entre des paires de variables (parfois prenant en compte d'autres). 
+> 
+> > Exemple : Relation entre la consommation d'alcool en semaine et le nombre d'absence. 
+> > 
++ Analyser des variables seules
+> Nous pouvons étudier la répartition dans les étudiants d'une variable (parfois prenant en compte d'autres). 
+> Nous pouvons
+> > Exemple : Raison du choix de l'école
+> > 
 
   
 ***
