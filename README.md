@@ -3,9 +3,9 @@ IF36 project
   
   
 ## Introduction  
-  
+
 ### Données  
-  
+
 Voici le dataset que nous avons choisi : https://www.kaggle.com/datasets/uciml/student-alcohol-consumption  
   
 Ces données ont pour origine une recherche sur des étudiants dans deux écoles secondaires au Portugal en 2008. Il s'agit d'**une grande variété d'attributs des étudiants, y compris des informations sur leur situation sociale, sur leurs études, etc.** Ces données sont à l'origine utilisées pour effectuer une prédiction des notes des étudiants avec l'exploration de données. Elles sont aussi utiles pour rechercher la relation entre ces attributs des étudiants et ainsi inspirer des améliorations sur la pédagogie.   
@@ -18,13 +18,13 @@ Nous avons choisi ces données pour des raisons suivantes :
 Une description des données :   
 + 396 étudiants sont étudiés dans le groupe du cours de math et 650 étudiants dans le groupe du cours de Portugais. 382 étudiants apparaissent dans les deux groupes.   
 + Dans chaque groupes, 33 attributs sont étudiés.   
-  
+
 ### Plan d'analyse  
 
 Nous nous avons posé des questions suivantes :   
 + Existe-t-il une relation entre
 
-
+  
 ***
 Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé...   
 S'il y a des choses dont on a pas besoin tu supprimes...et si tu trouves des erreurs de grammaires ou d'autres choses tu peux corriger :)  
