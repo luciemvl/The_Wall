@@ -67,7 +67,7 @@ Une description des données :
 > Nous pouvons étudier la répartition dans les étudiants d'une variable (prenant en compte d'autres).   
 > Exemple 1  
 > > Sujet : Raison du choix de l'école  
-> > Méthode Possible :  Histogram
+> > Méthode Possible :  Histogram  
 > > Problème potentiel :  
 
   
