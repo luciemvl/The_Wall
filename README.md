@@ -54,13 +54,15 @@ Une description des données :
 Dans nos études sur ces données, nous allons : 
 + Comparer des variables
 > Nous pouvons trouver la relation entre des paires de variables (parfois prenant en compte d'autres). 
-> 
-> > Exemple : Relation entre la consommation d'alcool en semaine et le nombre d'absence. 
-> > 
+> Exemple 1
+> > Relation entre la consommation d'alcool en semaine et le nombre d'absence. 
+> Exemple 2
+> > Relation entre  
 + Analyser des variables seules
 > Nous pouvons étudier la répartition dans les étudiants d'une variable (parfois prenant en compte d'autres). 
 > Nous pouvons
-> > Exemple : Raison du choix de l'école
+> Exemple 1
+> > Raison du choix de l'école
 > > 
 
   
