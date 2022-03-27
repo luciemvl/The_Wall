@@ -11,7 +11,7 @@ Ces données ont pour origine un refuge pour animaux Austin Animal Center aux É
 
 Nous avons choisi ces données pour des raisons suivantes :   
 + (Les données sont faciles à comprendre mais peuvent nous donner beaucoup d'idées à réfléchir ? )  
-+ Une grande quantité de variables qui nous donnes de nombreux sujets d'études possibles  
++ Une grande quantité de variables qui nous donne de nombreux sujets d'études possibles  
 + Une grande quantité de valeurs qui rendra le résultat de l'analyse plus signifiant  
 
 ### Plan d'analyse
