@@ -15,7 +15,7 @@ Le dataset consiste en 2 documents csv et 1 document R. Le document student-mat.
   
 Nous avons choisi ces données pour les raisons suivantes :   
 + Nous disposons avec ce dataset d'une grande quantité de variables qui nous donne de nombreux sujets d'étude possibles.   
-+ Un sujet touchant à l'éducation nous intéressez tout les trois.
++ Un sujet touchant à l'éducation nous intéressant tout les trois.
 + Nous étions curieux de voir quelle influence pouvait avoir la consomation d'alcool sur les résultats scolaires
 + La variété des attributs est assez forte.
 + Les attributs étudiés sont explicites. Il ne s'agit pas de données trop techniques : nous allons pouvoir rentrer dans le détails de l'analyse sans nous soucier de la complexité des variables étudiées.
