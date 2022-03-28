@@ -70,16 +70,19 @@ La variable rendant compte du nombre d'absence va nous etre trés utile car elle
 > Exemple 1  
 > > Sujet : Relation entre la consommation d'alcool en semaine et le nombre d'absence   
 > > But : Essayer de trouver comment la consommation d'alcool affecte la vie étudiante    
-> > Méthode possible : Point Graph, coloré avec le sexe  
+> > Méthode possible : Point graph, coloré avec le sexe  
 > > Problème potentiel : les données se concentrent dans une partie de l'échelle, ce qui peut rendre difficile l'établissement de la relation.   
 >   
 > Exemple 2  
 > > Sujet : Relation entre l'âge des étudiants et leur temps libre   
 > > But : Essayer d'obtenir une partie de l'image de l'évolution de l'écosystème des étudiants au cours du temps, ce qui peut être en relation avec la stresse, le choix de divertissements, etc. et au final, être relié à la consommation d'alcool à l'aide d'autres études
-> > Méthode possible : (Traitement en avance pour obtenir le temps libre moyen) Line Graph  
-> > Problème potentiel :  l'échelle 1 à 5 de la variable temps libre peut être trop subjective. 
+> > Méthode possible : (Traitement en avance pour obtenir le temps libre moyen) Line graph  
+> > Problème potentiel :  l'échelle 1 à 5 de la variable temps libre peut être trop subjective.   
 > Exemple 3  
-> > Sujet : 
+> > Sujet : Relation entre l'éducation des parents et le nombre de ratés  
+> > But : Essayer de trouver l'impact de l'environnement familial sur les résultats de l'étudiant (il reste à vérifier avec d'autres études comment ce facteur intéragit avec la consommation d'alcool et influencer les résultats de l'étudiant)  
+> > Méthode possible : Point graph  
+> > Problème Potentiel : on est toujours à la risque de na pas trouver une corrélation signifiante.   
 ***  
 > Exemple  
 > > Sujet : Raison du choix de l'école  
