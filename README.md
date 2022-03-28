@@ -1,12 +1,4 @@
----
-title: Proposition IF36
-author: Hanyu Zhu Lucie Marvillet Sarah Olgard
-date: 28/03/22
-output:
-  prettydoc::html_pretty:
-    theme: hpstr
 
----
 # The_Wall  
 IF36 project  
   
@@ -17,12 +9,16 @@ IF36 project
 
 Voici le dataset que nous avons choisi : https://www.kaggle.com/datasets/uciml/student-alcohol-consumption  
   
-Ces données ont pour origine une recherche sur des étudiants dans deux écoles secondaires au Portugal en 2008. Il s'agit d'**une grande variété d'attributs des étudiants, y compris des informations sur leur situation sociale, sur leurs études, etc.** Ces données sont à l'origine utilisées pour effectuer une prédiction des notes des étudiants avec l'exploration de données. Elles sont aussi utiles pour rechercher la relation entre ces attributs des étudiants et ainsi inspirer des améliorations sur la pédagogie.   
+Ces données ont pour origine une recherche sur des étudiants dans deux écoles secondaires au Portugal en 2008. Il s'agit d'**une grande variété d'attributs des étudiants, y compris des informations sur leur situation sociale, sur leurs études, etc.** Ces données sont à l'origine analysés pour effectuer une prédiction des notes des étudiants aux examens finaux. Elles sont aussi utiles pour rechercher la relation entre ces attributs des étudiants et ainsi inspirer des améliorations sur la pédagogie.   
   
-Le dataset consiste en 2 documents csv et 1 document R. Le document student-mat.csv représente des informations sur des étudiants dans le cours de math et le document student-por.csv sur ceux dans le cours de Portugais. À l'aide du document student-merge.R on peut accéder aux informations des étudiants qui apparaissent dans tous les deux groupes.   
+Le dataset consiste en 2 documents csv et 1 document R. Le document student-mat.csv représente des informations sur des étudiants dans le cours de math et le document student-por.csv sur ceux dans le cours de Portugais. À l'aide du document student-merge.R on peut accéder aux informations des étudiants qui apparaissent dans les deux groupes.   
   
-Nous avons choisi ces données pour des raisons suivantes :   
+Nous avons choisi ces données pour les raisons suivantes :   
 + Nous disposons avec ce dataset d'une grande quantité de variables qui nous donne de nombreux sujets d'étude possibles.   
++ Un sujet touchant à l'éducation nous intéressez tout les trois.
++ Nous étions curieux de voir quelle influence pouvait avoir la consomation d'alcool sur les résultats scolaires
++ La variété des attributs est assez forte.
++ Les attributs étudiés sont explicites. Il ne s'agit pas de données trop techniques : nous allons pouvoir rentrer dans le détails de l'analyse sans nous soucier de la complexité des variables étudiées.
   
 Une description des données :    
 + 396 étudiants sont étudiés dans le groupe du cours de math et 650 étudiants dans le groupe du cours de Portugais. 382 étudiants apparaissent dans les deux groupes.   
@@ -79,6 +75,14 @@ Une description des données :
 > > Méthode Possible :  Histogram  
 > > Problème potentiel :  
 
+Il pourrait être intéressant de voir si la coréllation entre résultats scolaire et consommation d'alcool est directe. En effet nous pouvons supposer facilement qu'il y a un lien important entre ces deux élements. Seulement, nous pensons que les choses ne sont pas si simples. Il serait trop rapide de conclure sur le fait qu'un seul facteur est la cause de l'echec scolaire. 
++ CONJECTURE:
+Les élements cités ci-dessus nous amènent à penser que l'echec scolaire est influencé par la consommation d'alcool de manière chaînée. En effet, la consommation d'alcool peut provoquer des aléas qui conduisent potentiellement à l'échec scolaire. Seulement, ces aléas se créent dans un contexte ou un milieu propice à leur apparition. Il est donc nécessaire d'étudier l'écosystème de vie global d'un étudiant afin de voir si l'impact de l'alcool est significatif. Nous voulons arriver à montrer la complexité du problème afin de le traiter dans son ensemble.
++ RESULTATS ESCOMPTES:
+Nous pensons réussir à montrer facilement que le phénomène auquel nous nous intéressons est cyclique. Si un étudiant à une trop forte consomation d'alcool, il y a de forte chance que l'étude de certains attributs montre qu'il évolue dans environnement qui l'influence négativement, et donc que ces résultats soient moins bons. A l'inverse, s'il est avéré que l'étudiant se trouve dans un environnement peu propices de part différents aspects, cela peut etre propice à une consomation d'alcool trop élevée et donc à des résultats médiocres.
+Dans cette optique, nous comptons définir ce que voudrait dire "consommation trop élevé". Est ce que les étudiants qui consommerait en semaine seraient plus impactés ? Est ce que la quantité consommée est un facteur important ?
+Il nous faudra également définir ce qu'est un éco-système propice ou peu propice. La profession des parents joue-t-elle un rôle? Le climat familial ? La santé ?
+La variable rendant compte du nombre d'absence va nous etre trés utile car elle pourra trés certainement etre un indicateur révélateur pouvant faire le lien pour ce qui a été expliqué précédement (éco-systeme mauvais => alcool => absence => mauvais résultat).
   
 ***
 Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé... Surtout la partie la plus importante, le plan d'analyse. Là je suis un peu perdu... Si tu veux tu peux envoyer un message dans le groupe et je vais ajouter des choses suivant tes exemples.   
