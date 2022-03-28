@@ -66,13 +66,13 @@ Dans cette optique, nous comptons définir ce que voudrait dire "consommation tr
 Il nous faudra également définir ce qu'est un éco-système propice ou peu propice. La profession des parents joue-t-elle un rôle? Le climat familial ? La santé ?  
 La variable rendant compte du nombre d'absence va nous etre trés utile car elle pourra trés certainement etre un indicateur révélateur pouvant faire le lien pour ce qui a été expliqué précédement (éco-systeme mauvais => alcool => absence => mauvais résultat).  
 
-+ Études possibles sur les variables  
+Études possibles sur les variables  
 > Exemple 1  
 > > Sujet : Relation entre la consommation d'alcool en semaine et le nombre d'absence   
-> > Intérêt :   
+> > Intérêt : Trouver le lien  
 > > Méthode possible : Point Graph, coloré avec le sexe  
 > > Problème potentiel : les données se concentrent dans une partie de l'échelle, ce qui peut rendre difficile l'établissement de la relation.   
-> > 
+>   
 > Exemple 2  
 > > Sujet : Relation entre l'âge des étudiants et leur temps libre   
 > > Intérêt :   
