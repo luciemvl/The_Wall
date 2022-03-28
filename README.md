@@ -69,13 +69,13 @@ La variable rendant compte du nombre d'absence va nous etre trés utile car elle
 + Études possibles sur les variables  
 > Exemple 1  
 > > Sujet : Relation entre la consommation d'alcool en semaine et le nombre d'absence   
-> > Intérêt : 
+> > Intérêt :   
 > > Méthode possible : Point Graph, coloré avec le sexe  
 > > Problème potentiel : les données se concentrent dans une partie de l'échelle, ce qui peut rendre difficile l'établissement de la relation.   
 > > 
 > Exemple 2  
 > > Sujet : Relation entre l'âge des étudiants et leur temps libre   
-> > Intérêt : 
+> > Intérêt :   
 > > Méthode possible : (Traitement en avance pour obtenir le temps libre moyen) Line Graph  
 > > Problème potentiel :  l'échelle 1 à 5 de la variable temps libre peut être trop subjective. 
 > > 
