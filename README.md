@@ -84,8 +84,3 @@ La variable rendant compte du nombre d'absence va nous etre trés utile car elle
 > > Sujet : Raison du choix de l'école  
 > > Méthode Possible :  Histogram  
 > > Problème potentiel :  
-
-***
-Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé... Surtout la partie la plus importante, le plan d'analyse. Là je suis un peu perdu... Si tu veux tu peux envoyer un message dans le groupe et je vais ajouter des choses suivant tes exemples.   
-S'il y a des choses dont on a pas besoin ou qui n'est pas intéressantes tu supprimes et si tu trouves des erreurs de grammaires ou d'autres choses tu peux corriger :)  
-Merci !   
