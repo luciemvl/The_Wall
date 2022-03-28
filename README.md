@@ -75,7 +75,7 @@ La variable rendant compte du nombre d'absence va nous etre trés utile car elle
 >   
 > Exemple 2  
 > > Sujet : Relation entre l'âge des étudiants et leur temps libre   
-> > But : Essayer d'obtenir une partie de l'image de l'évolution de l'écosystème des étudiants au cours du temps, ce qui peut être en relation avec la stresse, le choix de divertissements, etc. et au final, être relié à la consommation d'alcool à l'aide d'autres études
+> > But : Essayer d'obtenir une partie de l'image de l'évolution de l'écosystème des étudiants au cours du temps, ce qui peut être en relation avec le stress, le choix de divertissements, etc. et au final, être relié à la consommation d'alcool à l'aide d'autres études
 > > Méthode possible : (Traitement en avance pour obtenir le temps libre moyen) Line graph  
 > > Problème potentiel :  l'échelle 1 à 5 de la variable temps libre peut être trop subjective.   
 >   
