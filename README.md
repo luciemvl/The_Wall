@@ -83,7 +83,7 @@ La variable rendant compte du nombre d'absence va nous etre trés utile car elle
 > > Sujet : Relation entre l'éducation des parents et le nombre de ratés  
 > > But : Essayer de trouver l'impact de l'environnement familial sur les résultats de l'étudiant (il reste à vérifier avec d'autres études comment ce facteur intéragit avec la consommation d'alcool et influencer les résultats de l'étudiant)  
 > > Méthode possible : Point graph  
-> > Problème Potentiel : on est toujours à la risque de na pas trouver une corrélation signifiante.   
+> > Problème Potentiel : on est toujours au risque de ne pas trouver une corrélation signifiante.   
 ***  
 > Exemple  
 > > Sujet : Raison du choix de l'école  
