@@ -78,9 +78,8 @@ La variable rendant compte du nombre d'absence va nous etre trés utile car elle
 > > Méthode possible : (Traitement en avance pour obtenir le temps libre moyen) Line Graph  
 > > Problème potentiel :  l'échelle 1 à 5 de la variable temps libre peut être trop subjective. 
 > > 
-***
-> Nous pouvons étudier la répartition dans les étudiants d'une variable (prenant en compte d'autres).   
-> Exemple 1  
+***  
+> Exemple  
 > > Sujet : Raison du choix de l'école  
 > > Méthode Possible :  Histogram  
 > > Problème potentiel :  Les raisons sont peu variées
