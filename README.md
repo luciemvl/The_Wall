@@ -1,3 +1,12 @@
+---
+title: Proposition IF36
+author: Hanyu Zhu Lucie Marvillet Sarah Olgard
+date: 28/03/22
+output:
+  prettydoc::html_pretty:
+    theme: hpstr
+
+---
 # The_Wall  
 IF36 project  
   
