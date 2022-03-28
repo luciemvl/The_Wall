@@ -56,6 +56,16 @@ Une description des données :
 
 ### Plan d'analyse  
 
+Dans un premier temps, il s'agirait de faire une étude global de nos données. Cela nous permetterait de définir un contexte à notre travail d'analyse. Par exemple même si l'intervalle entre les individus les plus jeunes et les plus âgés n'est pas grand, voir si l'âge est un élément déterminant. Même chose pour le sexe et les autres attributs qu'on pourrait qualifier d'élémentaires (la liste de ceux-ci restera à définir). Il pourrait se réveler intéréssant de voir si nous pouvons déjà tirer quelques tendances en mettant en relations ces éléments et les comportements vis-à-vis de l'alcool.
+Dans un seccond temps nous rentrerons dans le détail, y-a-t-il une coréllation entre résultats scolaire et consommation d'alcool est directe. En effet, nous pouvons supposer facilement qu'il y a un lien important entre ces deux élements. Seulement, nous pensons que les choses ne sont pas si simples. Il serait trop rapide de conclure sur le fait qu'un seul facteur est la cause de l'échec scolaire. 
++ CONJECTURE:
+Les élements cités ci-dessus nous amènent à penser que l'echec scolaire est influencé par la consommation d'alcool de manière chaînée. En effet, la consommation d'alcool peut provoquer des aléas qui conduisent potentiellement à l'échec scolaire. Seulement, ces aléas se créent dans un contexte ou un milieu propice à leur apparition. Il est donc nécessaire d'étudier l'écosystème de vie global d'un étudiant afin de voir si l'impact de l'alcool est significatif. Nous voulons arriver à montrer la complexité du problème afin de le traiter dans son ensemble.
++ RESULTATS ESCOMPTES:
+Nous pensons réussir à montrer facilement que le phénomène auquel nous nous intéressons est cyclique. Si un étudiant à une trop forte consomation d'alcool, il y a de forte chance que l'étude de certains attributs montre qu'il évolue dans environnement qui l'influence négativement, et donc que ces résultats soient moins bons. A l'inverse, s'il est avéré que l'étudiant se trouve dans un environnement peu propices de part différents aspects, cela peut etre propice à une consomation d'alcool trop élevée et donc à des résultats médiocres.
+Dans cette optique, nous comptons définir ce que voudrait dire "consommation trop élevé". Est ce que les étudiants qui consommerait en semaine seraient plus impactés ? Est ce que la quantité consommée est un facteur important ?
+Il nous faudra également définir ce qu'est un éco-système propice ou peu propice. La profession des parents joue-t-elle un rôle? Le climat familial ? La santé ?
+La variable rendant compte du nombre d'absence va nous etre trés utile car elle pourra trés certainement etre un indicateur révélateur pouvant faire le lien pour ce qui a été expliqué précédement (éco-systeme mauvais => alcool => absence => mauvais résultat).
+
 + Comparaison des variables  
 > Nous pouvons étudier la relation entre des paires de variables (prenant en compte d'autres).   
 > Exemple 1  
@@ -65,25 +75,16 @@ Une description des données :
 > > 
 > Exemple 2  
 > > Sujet : Relation entre l'âge des étudiants et leur temps libre.   
-> > Méthode possible : (Traitement en avance pour obtenir le moyen du temps libres) Line Graph  
+> > Méthode possible : (Traitement en avance pour obtenir le temps libre moyen) Line Graph  
 > > Problème potentiel :  l'échelle 1 à 5 de la variable temps libre peut être trop subjective. 
 > > 
-+ Analyse des variables seules  
++ Analyse des variables seules
 > Nous pouvons étudier la répartition dans les étudiants d'une variable (prenant en compte d'autres).   
 > Exemple 1  
 > > Sujet : Raison du choix de l'école  
 > > Méthode Possible :  Histogram  
 > > Problème potentiel :  
 
-Il pourrait être intéressant de voir si la coréllation entre résultats scolaire et consommation d'alcool est directe. En effet nous pouvons supposer facilement qu'il y a un lien important entre ces deux élements. Seulement, nous pensons que les choses ne sont pas si simples. Il serait trop rapide de conclure sur le fait qu'un seul facteur est la cause de l'echec scolaire. 
-+ CONJECTURE:
-Les élements cités ci-dessus nous amènent à penser que l'echec scolaire est influencé par la consommation d'alcool de manière chaînée. En effet, la consommation d'alcool peut provoquer des aléas qui conduisent potentiellement à l'échec scolaire. Seulement, ces aléas se créent dans un contexte ou un milieu propice à leur apparition. Il est donc nécessaire d'étudier l'écosystème de vie global d'un étudiant afin de voir si l'impact de l'alcool est significatif. Nous voulons arriver à montrer la complexité du problème afin de le traiter dans son ensemble.
-+ RESULTATS ESCOMPTES:
-Nous pensons réussir à montrer facilement que le phénomène auquel nous nous intéressons est cyclique. Si un étudiant à une trop forte consomation d'alcool, il y a de forte chance que l'étude de certains attributs montre qu'il évolue dans environnement qui l'influence négativement, et donc que ces résultats soient moins bons. A l'inverse, s'il est avéré que l'étudiant se trouve dans un environnement peu propices de part différents aspects, cela peut etre propice à une consomation d'alcool trop élevée et donc à des résultats médiocres.
-Dans cette optique, nous comptons définir ce que voudrait dire "consommation trop élevé". Est ce que les étudiants qui consommerait en semaine seraient plus impactés ? Est ce que la quantité consommée est un facteur important ?
-Il nous faudra également définir ce qu'est un éco-système propice ou peu propice. La profession des parents joue-t-elle un rôle? Le climat familial ? La santé ?
-La variable rendant compte du nombre d'absence va nous etre trés utile car elle pourra trés certainement etre un indicateur révélateur pouvant faire le lien pour ce qui a été expliqué précédement (éco-systeme mauvais => alcool => absence => mauvais résultat).
-  
 ***
 Je ne suis pas sûr que j'ai bien compris tout ce qui est demandé... Surtout la partie la plus importante, le plan d'analyse. Là je suis un peu perdu... Si tu veux tu peux envoyer un message dans le groupe et je vais ajouter des choses suivant tes exemples.   
 S'il y a des choses dont on a pas besoin ou qui n'est pas intéressantes tu supprimes et si tu trouves des erreurs de grammaires ou d'autres choses tu peux corriger :)  
